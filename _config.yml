@@ -7,12 +7,12 @@ baseurl: '/zrxJuly_bio' #change it according to your repository name
 
 # Profile information
 yourname: 张荣香  ## put your name
-title: '应聘职位 &amp; '  ## your title
-location: 山东 , 泰安
+title: '应聘职位 &amp; Java开发工程师'  ## your title
+location: 山东 , 济南
 
 
 ## Social Profiles
-facebook: http://www.facebook.com  ## your facebook account url
+github: http://www.facebook.com  ## your facebook account url
 twitter: http://www.twitter.com  ## your twitter account url
 linkedin: http://www.linkedin.com  ## your linkedin account url
 dribbble: http://www.dribble.com  ## you dribbble account url
